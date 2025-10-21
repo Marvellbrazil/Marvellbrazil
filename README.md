@@ -3,12 +3,12 @@
 <h4 align="center">Wish you all the best you all guys!! :DD</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20views&color=7F00FF&style=for-the-badge" alt="radityapanca02" />
+  <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20views&color=7F00FF&style=for-the-badge" alt="marvellbrazil" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marvellbrazil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="radityapanca02" />
+    <img src="https://github-profile-trophy.vercel.app/?username=marvellbrazil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="marvellbrazil" />
   </a>
 </p>
 
