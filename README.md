@@ -34,7 +34,7 @@
 
 ### ⚒️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,css,cloudflare,devto,discord,dotnet,figma,googlecloud,git,gitlab,github,gmail,godot,html,idea,instagram,java,javascript,kali,laravel,linkedin,linux,markdown,mysql,neovim,nodejs,notion,npm,php,phpstorm,powershell,python,sqlite,svg,sass,stackoverflow,symfony,tailwind,twitter,vim,vscode,vercel,visualstudio,vite,windows,wordpress" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,css,cloudflare,devto,discord,dotnet,figma,googlecloud,git,gitlab,github,gmail,godot,html,idea,instagram,java,javascript,kali,laravel,linkedin,linux,markdown,mysql,neovim,nodejs,notion,npm,php,phpstorm,powershell,python,sqlite,svg,sass,stackoverflow,symfony,tailwind,twitter,vim,vscode,vercel,visualstudio,vite,windows,wordpress" /><i class="fa fa-whatsapp" style="font-size:36px"></i>
 </p>
 
 ---
