@@ -1,40 +1,48 @@
-<div align="center">
+<!-- 🌟 GitHub Profile README -->
+<h1 align="center">Hi 👋, Saya Muhammad Panca Raditya Pamungkas</h1>
+<h3 align="center">🚀 Junior FullStack Developer Enthusiast from Indonesia 🇮🇩</h3>
 
-# Hi, I'm Azra!
-
-**An Aspiring Developer from SMK PGRI 3 Malang**
-
-</div>
-
-![Profile views](https://komarev.com/ghpvc/?username=Azra-Hadi-Kusuma&color=blue&style=flat&label=Profile+views)
-
-
-• 🔭 I'm currently studying **Computer Science and Web Development**
-
-• 🌱 My dream is **Full Stack Development**
-
-• 💬 Ask me about **Programming, little sport, and Role Playing Video Games**
-
-• 📫 How to reach me **azrakusuma0@gmail.com**
-
-• ⚡ Fun fact **I gamer and I love cats.**
-
-## Connect with me:
-
-<p align="left">
-<a href="" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/zabuzz.dm" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=radityapanca02&label=Profile%20views&color=7F00FF&style=for-the-badge" alt="radityapanca02" />
 </p>
 
-## Languages and Tools:
-
-<p align="left">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-<a href="https://www.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=radityapanca02&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="radityapanca02" />
+  </a>
 </p>
+
+---
+
+### 🌱 About Me
+- 💻 I’m **Junior Software Engineer and A progressive learner**
+- 📫 You can contact me through **marvellbrazil@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/akufaisal._" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind,mysql,postgres,nginx,linux,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=radityapanca02&show_icons=true&theme=radical&layout=compact" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radityapanca02&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+</p>
+
+---
