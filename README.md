@@ -1,41 +1,108 @@
-<h1 align="center">😎 Hello there, I am Marvello Faisal</h1>
-<h3 align="center">📚 I am a Junior Software Engineer from Malang, Indonesia</h3>
-<h4 align="center">Wish you all the best you all guys!! :DD</h4>
-
+<!-- ===================== PIXEL GIF BANNER ===================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20views&color=7F00FF&style=for-the-badge" alt="marvellbrazil" />
+  <img 
+    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"
+    width="100%"
+  />
+  <img 
+    src="https://i.imgur.com/8Km9tLL.gif"
+    width="100%"
+    alt="pixel banner"
+  />
+</p>
+
+<!-- ===================== HEADER ===================== -->
+<h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
+<p align="center">
+Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=marvellbrazil&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="marvellbrazil" />
+  <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20Views&color=7F00FF&style=for-the-badge" />
+</p>
+
+---
+
+<!-- ===================== PIXEL CHARACTER ===================== -->
+<p align="center">
+  <img 
+    src="https://media.tenor.com/2roX3uxz_68AAAAC/pixel-art-night.gif"
+    width="400"
+    alt="pixel idle character"
+  />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=marvellbrazil&show_icons=true&theme=radical&hide_border=true"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvellbrazil&layout=compact&theme=radical&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=marvellbrazil&theme=radical&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## ⚒️ Tech Stack
+
+### 🧠 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,python,javascript,sql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,dotnet" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,googlecloud,vercel" />
+</p>
+
+### 🛠️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,vscode,neovim" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=marvellbrazil&theme=radical&no-frame=true&row=1&margin-w=15"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marvello-faisal-912132318/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://instagram.com/akufaisal._">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
 
 ---
 
-### 🗒️ Digging Deeper into Me
-- 💻 I’m **Junior Software Engineer and A progressive learner**
-- 📫 You can contact me through **marvellbrazil@gmail.com**
-
----
-
-### 🌐 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/](https://www.linkedin.com/in/marvello-faisal-912132318/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/akufaisal._" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
-  </a>
+  <i>“Code. Learn. Build. Repeat.”</i>
 </p>
-
----
-
-### ⚒️ Languages and Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,bash,bootstrap,css,cloudflare,devto,discord,dotnet,figma,googlecloud,git,gitlab,github,gmail,godot,html,idea,instagram,java,javascript,kali,laravel,linkedin,linux,markdown,mysql,neovim,nodejs,notion,npm,php,phpstorm,powershell,python,sqlite,svg,sass,stackoverflow,symfony,tailwind,twitter,vim,vscode,vercel,visualstudio,vite,windows,wordpress" />
-  <link href="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat">
-</p>
-
----
