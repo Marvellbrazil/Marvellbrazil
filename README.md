@@ -114,11 +114,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://c.tenor.com/b-ZYq6UltQ4AAAAd/tenor.gif" width="60%" />
-    </td>
-    <td align="center">
-      <img src="https://c.tenor.com/riBEZzvjnukAAAAC/tenor.gif" width="100%" />
+    <td align="center" colspan="2">
+      <img src="https://c.tenor.com/b-ZYq6UltQ4AAAAd/tenor.gif" width="100%" />
     </td>
   </tr>
 </table>
