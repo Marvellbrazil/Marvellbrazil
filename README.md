@@ -1,8 +1,7 @@
 <p align="center">
   <img 
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
-    width="100%"
-    style="object-fit: cover; object-position: center; max-height:150px;"
+    style="width: 100%; object-fit: cover; object-position: center; aspect-ratio: 16 / 9;"
     alt="pixel idle character"
   />
 </p>
