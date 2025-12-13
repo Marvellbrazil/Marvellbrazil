@@ -104,17 +104,15 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://c.tenor.com/gdH4hglVqJ4AAAAC/tenor.gif"
-    width="50%"
-    alt="anime learning"
-  />
-  <img 
-    src="https://c.tenor.com/h0mocw4K4ywAAAAC/tenor.gif"
-    width="50%"
-    alt="anime coding"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://c.tenor.com/gdH4hglVqJ4AAAAC/tenor.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://c.tenor.com/h0mocw4K4ywAAAAC/tenor.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">Learn Progressively and Keep Disciplined. Because, <code><em>"Single step is better than none"</em></code>.</p>
