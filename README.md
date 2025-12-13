@@ -17,7 +17,7 @@ Software Engineering Student • Backend — Web Development — Tech Enthusiast
 
 ---
 
-<code>📊 GitHub Statistics</code>
+## <code>📊 GitHub Statistics</code>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
