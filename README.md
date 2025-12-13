@@ -17,6 +17,15 @@
 
 ---
 
+```json
+var data = {
+  "greetings": "Helloo!!! Welcome to my GitHub Profile :3",
+  "from": "Marvell",
+}
+```
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
