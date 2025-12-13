@@ -78,7 +78,7 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 ## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=marvellbrazil&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marvellbrazil&theme=onedark&no-frame=true" />
 </p>
 
 ---
