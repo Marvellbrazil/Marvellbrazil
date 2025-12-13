@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">👋 Hi, I am Marvello Faisal</h2>
+---
 
 <p align="center">
   <img 
@@ -15,6 +15,8 @@
     alt="pixel idle character"
   />
 </p>
+
+<h1 align="center">👋 Hi, I am Marvello Faisal</h2>
 
 <p align="center">
 <code>💻 Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code>🤖 Tech Enthusiast</code> • <code>Malang, Indonesia</code>
