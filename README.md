@@ -106,7 +106,7 @@
 
 <p align="center">
   <img 
-    src="https://c.tenor.com/h0mocw4K4ywAAAAC/tenor.gif"
+    src="https://c.tenor.com/gdH4hglVqJ4AAAAC/tenor.gif"
     width="100%"
     alt="anime coding"
   />
