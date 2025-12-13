@@ -35,7 +35,7 @@
 
 #### 🗄️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,php,py" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,php,py" />
 </p>
 
 #### ✨ Other
