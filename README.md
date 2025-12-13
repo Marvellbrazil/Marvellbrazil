@@ -94,5 +94,11 @@
 ---
 
 <p align="center">
-  <p>Learn Progressively and Grow. Because, <code><em>"Single step is better than none"</em></code>.</p>
+  <img 
+    src="https://c.tenor.com/h0mocw4K4ywAAAAC/tenor.gif"
+    width="100%"
+    alt="anime coding"
+  />
 </p>
+
+<p align="center">Learn Progressively and Grow. Because, <code><em>"Single step is better than none"</em></code>.</p>
