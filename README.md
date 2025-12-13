@@ -3,7 +3,7 @@
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
     width="100%"
     height="100px"
-    style="object-fit: cover;"
+    style="object-fit: cover; object-position: center;"
     alt="pixel idle character"
   />
 </p>
