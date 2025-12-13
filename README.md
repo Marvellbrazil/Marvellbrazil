@@ -94,5 +94,5 @@
 ---
 
 <p align="center">
-  <i>Learn Progressively and Grow. Because, <code>"Single step is better than none"</code>.</i>
+  <p>Learn Progressively and Grow. Because, <code><em>"Single step is better than none"</em></code>.</p>
 </p>
