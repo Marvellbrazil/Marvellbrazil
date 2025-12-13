@@ -19,7 +19,7 @@
 <h1 align="center">👋 Hi, I am Marvello Faisal</h2>
 
 <p align="center">
-<code>💻 Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code>🤖 Tech Enthusiast</code> • <code>Malang, Indonesia</code>
+<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="25" height="25" /> Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wireless.png" alt="Wireless" width="25" height="25" /> Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
 
 <p align="center">
@@ -39,38 +39,38 @@
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
 </p>
 
 ---
-## ⚒️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Snowflake.png" alt="Snowflake" width="25" height="25" /> Tech Stack
 
-### 🧠 Languages
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Languages
 
-#### 💻 Frontend
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-#### 🗄️ Backend
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> Backend
 <p>
   <img src="https://skillicons.dev/icons?i=cs,java,js,php,py" />
 </p>
 
-#### ✨ Other
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="25" height="25" /> Other
 <p>
   <img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,laravel,nodejs,sass,tailwind,vite" />
 </p>
 
-### 🗄️ Database & Cloud
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> Database & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=cloudflare,googlecloud,mysql,netlify,postgres,sqlite,vercel" />
 </p>
