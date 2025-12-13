@@ -19,7 +19,7 @@
 <h1 align="center">👋 Hi, I am Marvello Faisal</h2>
 
 <p align="center">
-<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="18" height="18" /> Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wireless.png" alt="Wireless" width="28" height="18" /> Tech Enthusiast</code> • <code>Malang, Indonesia</code>
+<code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="18" height="18" /> Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wireless.png" alt="Wireless" width="18" height="18" /> Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
 
 <p align="center">
