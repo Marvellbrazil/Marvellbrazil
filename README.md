@@ -101,4 +101,4 @@
   />
 </p>
 
-<p align="center">Learn Progressively and Grow. Because, <code><em>"Single step is better than none"</em></code>.</p>
+<p align="center">Learn Progressively and Keep Disciplined. Because, <code><em>"Single step is better than none"</em></code>.</p>
