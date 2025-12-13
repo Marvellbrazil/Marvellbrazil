@@ -18,9 +18,9 @@
 ---
 
 ```json
-data = {
+"data": {
   "greetings": "Helloo!!! Welcome to my GitHub Profile :3",
-  "from": "Marvell",
+  "from": "Marvell"
 }
 ```
 
