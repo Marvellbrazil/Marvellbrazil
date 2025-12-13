@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
 <p align="center">
-Software Engineer Student • Backend | Web Development | Tech Enthusiast • Indonesia
+Software Engineer Student | Backend — Web Development — Tech Enthusiast | Malang, Indonesia
 </p>
 
 <p align="center">
