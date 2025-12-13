@@ -12,6 +12,14 @@
 </p>
 
 <p align="center">
+  <img 
+    src="https://media.tenor.com/IjX29sgxJVAAAAAi/sleeping-cute.gif"
+    width="100%"
+    alt="pixel idle character"
+  />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20Views&color=7F00FF&style=for-the-badge" />
 </p>
 
