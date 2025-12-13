@@ -1,8 +1,9 @@
 <p align="center">
   <img 
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
-    width="800px"
+    width="100%"
     height="100px"
+    style="object-fit: cover;"
     alt="pixel idle character"
   />
 </p>
