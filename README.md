@@ -1,12 +1,12 @@
 <p align="center">
   <img 
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
-    style="width: 100%; object-fit: cover; object-position: center; aspect-ratio: 16 / 9;"
+    style="width: 100%;"
     alt="pixel idle character"
   />
 </p>
 
-<h1 align="center">👋 Hi, I'm Marvello Faisal</h2>
+<h1 align="center">👋 Hi, I am Marvello Faisal</h2>
 <p align="center">
 <code>Software Engineering Student</code> • <code>Backend</code> — <code>Web Development</code> — <code>Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
@@ -30,23 +30,26 @@
 <br>
 
 ### 🧠 <code>Languages</code>
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,md,php,py" />
-</p>
+#### 💻 <code>Frontend</code>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+#### 🗄️ <code>Backend</code>
+<img src="https://skillicons.dev/icons?i=cs,java,php,py" />
+#### ✨ <code>Other</code>
+<img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity" />
 
 ### ⚙️ <code>Frameworks & Libraries</code>
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,dotnet,sass" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,laravel,nodejs,sass,tailwind,vite" />
 </p>
 
 ### 🗄️ <code>Database & Cloud</code>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,cloudflare,googlecloud,vercel" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,googlecloud,mysql,netlify,postgres,sqlite,vercel" />
 </p>
 
 ### 🛠️ <code>Tools & Environment</code>
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,kali,git,github,vscode,neovim,powershell" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,gradle,kali,neovim,notion,postman,powershell,visualstudio,vscode,windows" />
 </p>
 
 ---
