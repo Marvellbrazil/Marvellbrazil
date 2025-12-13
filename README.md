@@ -1,4 +1,3 @@
-<!-- ===================== TALL PIXEL GIF BANNER ===================== -->
 <p align="center">
   <img 
     src="https://media.tenor.com/7b6x5F5WzXkAAAAC/pixel-city-night.gif"
@@ -18,7 +17,6 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 
 ---
 
-<!-- ===================== PIXEL IDLE CHARACTER ===================== -->
 <p align="center">
   <img 
     src="https://media.tenor.com/2roX3uxz_68AAAAC/pixel-art-night.gif"
@@ -31,22 +29,10 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=marvellbrazil&show_icons=true&theme=radical&hide_border=true"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvellbrazil&layout=compact&theme=radical&hide_border=true"
-    height="170"
-  />
-</p>
+## 🚀 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=marvellbrazil&theme=radical&hide_border=true"
-    height="170"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -71,14 +57,6 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 ### 🛠️ Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,vscode,neovim" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marvellbrazil&theme=onedark&no-frame=true" />
 </p>
 
 ---
