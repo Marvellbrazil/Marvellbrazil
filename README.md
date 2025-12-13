@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://media.tenor.com/7b6x5F5WzXkAAAAC/pixel-city-night.gif"
+    src="https://tenor.com/qjOxn6duts0.gif"
     width="420"
     alt="pixel night banner"
   />
@@ -8,7 +8,7 @@
 
 <h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
 <p align="center">
-Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
+Software Engineer Student • Backend | Web Development | Tech Enthusiast • Indonesia
 </p>
 
 <p align="center">
@@ -28,8 +28,6 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 ---
 
 ## 📊 GitHub Statistics
-
-## 🚀 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
