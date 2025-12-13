@@ -11,7 +11,7 @@
 <p align="center">
   <img 
     src="https://media.tenor.com/IjX29sgxJVAAAAAi/sleeping-cute.gif"
-    width="50%"
+    width="25%"
     alt="pixel idle character"
   />
 </p>
