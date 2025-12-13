@@ -1,10 +1,4 @@
-<p align="center">
-  <img 
-    src="https://tenor.com/qjOxn6duts0.gif"
-    width="420"
-    alt="pixel night banner"
-  />
-</p>
+<div class="tenor-gif-embed" data-postid="13559439025757090796" data-share-method="host" data-aspect-ratio="1.80435" data-width="100%"><a href="https://tenor.com/view/pixel-art-town-japanese-town-urban-mejwh-gif-13559439025757090796">Pixel Art Town GIF</a>from <a href="https://tenor.com/search/pixel+art-gifs">Pixel Art GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
 <p align="center">
