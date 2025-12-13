@@ -113,6 +113,14 @@
       <img src="https://c.tenor.com/h0mocw4K4ywAAAAC/tenor.gif" width="100%" />
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://c.tenor.com/b-ZYq6UltQ4AAAAd/tenor.gif" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://c.tenor.com/riBEZzvjnukAAAAC/tenor.gif" width="100%" />
+    </td>
+  </tr>
 </table>
 
 <p align="center">Learn Progressively and Keep Disciplined. Because, <code><em>"Single step is better than none"</em></code>.</p>
