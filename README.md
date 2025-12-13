@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
-    style="width: 100%;"
+    width="100%"
     alt="pixel idle character"
   />
 </p>
