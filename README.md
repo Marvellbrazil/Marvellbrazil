@@ -120,5 +120,5 @@
   </tr>
 </table>
 
-<p align="center"><code>1.01<sup>365</sup> = 37.8</code> <b>or</b> <code>0.99<sup>365</sup> = 0.03</code></p></p>
+<p align="center"><code>1.01<sup>365</sup> = 37.8</code> or <code>0.99<sup>365</sup> = 0.03</code></p></p>
 <p align="center">Learn Progressively and Keep Disciplined. Because, <code><em>"Single step is better than none"</em></code>.</p>
