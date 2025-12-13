@@ -17,7 +17,7 @@
 
 ---
 
-## 📊 <code>GitHub Statistics</code>
+## 📊 GitHub Statistics
 <br>
 
 <p align="center">
@@ -25,36 +25,43 @@
 </p>
 
 ---
+## ⚒️ Tech Stack
 
-## ⚒️ <code>Tech Stack</code>
-<br>
+### 🧠 Languages
 
-## 🧠 <code>Languages</code>
-### 💻 <code>Frontend</code>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-### 🗄️ <code>Backend</code>
-<img src="https://skillicons.dev/icons?i=cs,java,php,py" />
-### ✨ <code>Other</code>
-<img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity" />
+#### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### ⚙️ <code>Frameworks & Libraries</code>
+#### 🗄️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,php,py" />
+</p>
+
+#### ✨ Other
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity" />
+</p>
+
+### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,laravel,nodejs,sass,tailwind,vite" />
 </p>
 
-### 🗄️ <code>Database & Cloud</code>
+### 🗄️ Database & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=cloudflare,googlecloud,mysql,netlify,postgres,sqlite,vercel" />
 </p>
 
-### 🛠️ <code>Tools & Environment</code>
+### 🛠️ Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,gradle,kali,neovim,notion,postman,powershell,visualstudio,vscode,windows" />
 </p>
 
 ---
 
-## 🌐 <code>Connect With Me</code>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://instagram.com/akufaisal._" title ="Instagram">
