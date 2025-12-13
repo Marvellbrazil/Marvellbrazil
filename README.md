@@ -29,12 +29,12 @@
 ## ⚒️ <code>Tech Stack</code>
 <br>
 
-### 🧠 <code>Languages</code>
-#### 💻 <code>Frontend</code>
+## 🧠 <code>Languages</code>
+### 💻 <code>Frontend</code>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-#### 🗄️ <code>Backend</code>
+### 🗄️ <code>Backend</code>
 <img src="https://skillicons.dev/icons?i=cs,java,php,py" />
-#### ✨ <code>Other</code>
+### ✨ <code>Other</code>
 <img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity" />
 
 ### ⚙️ <code>Frameworks & Libraries</code>
