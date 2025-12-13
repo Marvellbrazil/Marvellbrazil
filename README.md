@@ -8,7 +8,7 @@
 
 <h1 align="center">👋 Hi, I am Marvello Faisal</h2>
 <p align="center">
-<code>Software Engineering Student</code> • <code>Backend</code> — <code>Web Development</code> — <code>Tech Enthusiast</code> • <code>Malang, Indonesia</code>
+<code>💻 Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code>🤖 Tech Enthusiast</code> • <code>🇮🇩 Malang, Indonesia</code>
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@
 ---
 
 ## 📊 GitHub Statistics
-<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
@@ -84,5 +83,5 @@
 ---
 
 <p align="center">
-  <i>Learn Progressively and Grow. Because, <code>"Single step better than none"</code>.</i>
+  <i>Learn Progressively and Grow. Because, <code>"Single step is better than none"</code>.</i>
 </p>
