@@ -8,21 +8,11 @@
 
 <h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
 <p align="center">
-Software Engineer Student | Backend — Web Development — Tech Enthusiast | Malang, Indonesia
+Software Engineering Student • Backend — Web Development — Tech Enthusiast • Malang, Indonesia
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20Views&color=7F00FF&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://media.tenor.com/2roX3uxz_68AAAAC/pixel-art-night.gif"
-    width="380"
-    alt="pixel idle character"
-  />
 </p>
 
 ---
@@ -39,22 +29,22 @@ Software Engineer Student | Backend — Web Development — Tech Enthusiast | Ma
 
 ### 🧠 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,python,javascript,sql" />
+  <img src="https://skillicons.dev/icons?i=java,js,md,php,py" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,dotnet" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,dotnet,sass" />
 </p>
 
 ### 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,googlecloud,vercel" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,cloudflare,googlecloud,vercel" />
 </p>
 
 ### 🛠️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,vscode,neovim" />
+  <img src="https://skillicons.dev/icons?i=windows,kali,git,github,vscode,neovim,powershell" />
 </p>
 
 ---
@@ -62,11 +52,20 @@ Software Engineer Student | Backend — Web Development — Tech Enthusiast | Ma
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marvello-faisal-912132318/">
+  <a href="https://instagram.com/akufaisal._" title ="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marvello-faisal-912132318/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://instagram.com/akufaisal._">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  <a href="https://discord.app/users/776817709810974720" title="Discord">
+    <img src="https://skillicons.dev/icons?i=discord" height="45"/>
+  </a>
+  <a href="https://dev.to/marvellbrazil" title="DEVTO">
+    <img src="https://skillicons.dev/icons?i=devto" height="45"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=faisalmarvello53@gmail.com" title="Gmail">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
 
