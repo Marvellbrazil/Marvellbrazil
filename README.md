@@ -1,17 +1,12 @@
-<!-- ===================== PIXEL GIF BANNER ===================== -->
+<!-- ===================== TALL PIXEL GIF BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"
-    width="100%"
-  />
-  <img 
-    src="https://i.imgur.com/8Km9tLL.gif"
-    width="100%"
-    alt="pixel banner"
+    src="https://media.tenor.com/7b6x5F5WzXkAAAAC/pixel-city-night.gif"
+    width="420"
+    alt="pixel night banner"
   />
 </p>
 
-<!-- ===================== HEADER ===================== -->
 <h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
 <p align="center">
 Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
@@ -23,11 +18,11 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 
 ---
 
-<!-- ===================== PIXEL CHARACTER ===================== -->
+<!-- ===================== PIXEL IDLE CHARACTER ===================== -->
 <p align="center">
   <img 
     src="https://media.tenor.com/2roX3uxz_68AAAAC/pixel-art-night.gif"
-    width="400"
+    width="380"
     alt="pixel idle character"
   />
 </p>
@@ -104,5 +99,5 @@ Junior Software Engineer • Backend & Web Development • Indonesia 🇮🇩
 ---
 
 <p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i>
+  <i>Code late. Learn daily. Build seriously.</i>
 </p>
