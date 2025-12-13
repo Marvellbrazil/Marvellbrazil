@@ -2,13 +2,14 @@
   <img 
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
     width="100%"
+    height="25%"
     alt="pixel idle character"
   />
 </p>
 
-<h2 align="center">👋 Hi, I'm Marvello Faisal</h2>
+<h1 align="center">👋 Hi, I'm Marvello Faisal</h2>
 <p align="center">
-Software Engineering Student • Backend — Web Development — Tech Enthusiast • Malang, Indonesia
+<code>Software Engineering Student</code> • <code>Backend</code> — <code>Web Development</code> — <code>Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
 
 <p align="center">
@@ -18,6 +19,7 @@ Software Engineering Student • Backend — Web Development — Tech Enthusiast
 ---
 
 ## <code>📊 GitHub Statistics</code>
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
@@ -25,31 +27,32 @@ Software Engineering Student • Backend — Web Development — Tech Enthusiast
 
 ---
 
-## ⚒️ Tech Stack
+## <code>⚒️ Tech Stack</code>
+<br>
 
-### 🧠 Languages
+### <code>🧠 Languages</code>
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,md,php,py" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### <code>⚙️ Frameworks & Libraries</code>
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,dotnet,sass" />
 </p>
 
-### 🗄️ Database & Cloud
+### 🗄️ <code>Database & Cloud</code>
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,cloudflare,googlecloud,vercel" />
 </p>
 
-### 🛠️ Tools & Environment
+### 🛠️ <code>Tools & Environment</code>
 <p>
   <img src="https://skillicons.dev/icons?i=windows,kali,git,github,vscode,neovim,powershell" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## <code>🌐 Connect With Me</code>
 
 <p align="center">
   <a href="https://instagram.com/akufaisal._" title ="Instagram">
