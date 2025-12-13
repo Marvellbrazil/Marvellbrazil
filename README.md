@@ -115,7 +115,7 @@
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://c.tenor.com/b-ZYq6UltQ4AAAAd/tenor.gif" width="100%" />
+      <img src="https://c.tenor.com/YhA5nO9jiCkAAAAC/tenor.gif" width="100%" />
     </td>
   </tr>
 </table>
