@@ -50,12 +50,12 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="24" height="24" /> Languages
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="20" /> Frontend
+#### 💻 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="20" height="20" /> Backend
+#### 🗄️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=cs,java,js,php,py" />
 </p>
