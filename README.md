@@ -7,9 +7,6 @@
 </p>
 
 <h1 align="center">👋 Hi, I am Marvello Faisal</h2>
-<p align="center">
-<code>💻 Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code>🤖 Tech Enthusiast</code> • <code>Malang, Indonesia</code>
-</p>
 
 <p align="center">
   <img 
@@ -17,6 +14,10 @@
     width="50%"
     alt="pixel idle character"
   />
+</p>
+
+<p align="center">
+<code>💻 Software Engineering Student</code> • <code>⚙️ Backend</code> — <code>🌐 Web Development</code> — <code>🤖 Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
 
 <p align="center">
