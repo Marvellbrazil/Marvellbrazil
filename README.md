@@ -1,8 +1,8 @@
 <p align="center">
   <img 
     src="https://c.tenor.com/vCzN8_PR8-wAAAAC/tenor.gif"
-    width="100%"
-    height="25%"
+    width="800px"
+    height="100px"
     alt="pixel idle character"
   />
 </p>
@@ -18,7 +18,7 @@
 
 ---
 
-## <code>📊 GitHub Statistics</code>
+## 📊 <code>GitHub Statistics</code>
 <br>
 
 <p align="center">
@@ -27,15 +27,15 @@
 
 ---
 
-## <code>⚒️ Tech Stack</code>
+## ⚒️ <code>Tech Stack</code>
 <br>
 
-### <code>🧠 Languages</code>
+### 🧠 <code>Languages</code>
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,md,php,py" />
 </p>
 
-### <code>⚙️ Frameworks & Libraries</code>
+### ⚙️ <code>Frameworks & Libraries</code>
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,dotnet,sass" />
 </p>
@@ -52,7 +52,7 @@
 
 ---
 
-## <code>🌐 Connect With Me</code>
+## 🌐 <code>Connect With Me</code>
 
 <p align="center">
   <a href="https://instagram.com/akufaisal._" title ="Instagram">
@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>Code late. Learn daily. Build seriously.</i>
+  <i>Learn Progressively and Grow. Because, <code>"Single step better than none"</code>.</i>
 </p>
