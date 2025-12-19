@@ -14,6 +14,12 @@
     width="15%"
     alt="pixel idle character"
   />
+
+  <img 
+    src="https://c.tenor.com/8JSTqLq5ot8AAAAC/tenor.gif"
+    width="15%"
+    alt="idle cute"
+  />
 </p>
 
 <h1 align="center">👋 Hi, I am Marvello Faisal</h2>
