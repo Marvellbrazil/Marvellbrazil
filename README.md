@@ -16,7 +16,13 @@
   />
 </p>
 
-<h1 align="center">👋 Hi, I am Marvello Faisal <img src="https://media.tenor.com/bXIzx6izXTQAAAAi/cute.gif" width="15%"/></h2>
+<h1 align="center">
+  👋 Hi, I am Marvello Faisal
+  <img
+    src="https://media.tenor.com/bXIzx6izXTQAAAAi/cute.gif"
+    width="32"
+  />
+</h1>
 
 <p align="center">
 <code>💻 Software Engineering Student</code> • <code>⚙️ Backend Developer</code> — <code>🌐 Web Developer</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
