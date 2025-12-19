@@ -43,9 +43,9 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
-  ![Marvellbrazil's Stats](https://github-readme-stats.vercel.app/api?username=Marvellbrazil&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  ![Marvellbrazil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvellbrazil&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </p>
+![Marvellbrazil's Stats](https://github-readme-stats.vercel.app/api?username=Marvellbrazil&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Marvellbrazil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvellbrazil&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 ## 💫 Tech Stack
