@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvellbrazil&theme=react-dark&hide_border=true&layout=compact&card_width=1200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvellbrazil&theme=react-dark&hide_border=true&layout=compact&card_width=900" />
 </p>
 
 ---
