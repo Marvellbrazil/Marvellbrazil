@@ -14,15 +14,9 @@
     width="15%"
     alt="pixel idle character"
   />
-
-  <img 
-    src="https://c.tenor.com/8JSTqLq5ot8AAAAC/tenor.gif"
-    width="15%"
-    alt="idle cute"
-  />
 </p>
 
-<h1 align="center">👋 Hi, I am Marvello Faisal</h2>
+<h1 align="center">👋 Hi, I am Marvello Faisal <img src="https://media.tenor.com/bXIzx6izXTQAAAAi/cute.gif"/></h2>
 
 <p align="center">
 <code>💻 Software Engineering Student</code> • <code>⚙️ Backend Developer</code> — <code>🌐 Web Developer</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
