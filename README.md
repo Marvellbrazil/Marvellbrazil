@@ -20,7 +20,7 @@
   👋 Hi, I am Marvello Faisal
   <img
     src="https://media.tenor.com/bXIzx6izXTQAAAAi/cute.gif"
-    width="32"
+    width="96"
   />
 </h1>
 
