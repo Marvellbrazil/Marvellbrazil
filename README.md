@@ -25,7 +25,7 @@
 </h1>
 
 <p align="center">
-<code>💻 Software Engineering Student</code> • <code>⚙️ Backend Developer</code> — <code>🌐 Web Developer</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
+<code>💻 Software Engineering Student</code> • <code>⚙️ Backend Engineering</code> — <code>🌐 Web Development</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
 
 <p align="center">
