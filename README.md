@@ -48,9 +48,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marvellbrazil&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=800" width="100%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Marvellbrazil&theme=react&show_icons=true&hide_border=true&count_private=true&card_width=800" width="100%" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marvellbrazil&theme=react-dark&hide_border=true" width="100%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvellbrazil&theme=react&hide_border=true&layout=compact&card_width=800" width="100%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marvellbrazil&theme=react&hide_border=true&layout=compact&card_width=800" width="100%" /> -->
 </p>
 
 ---
@@ -92,7 +92,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
   <a href="https://instagram.com/akufaisal._" title ="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
