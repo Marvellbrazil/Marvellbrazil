@@ -16,15 +16,13 @@
   />
 </p>
 
-<h2 align="center">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I am Marvello Faisal
   <img
     src="https://media.tenor.com/bXIzx6izXTQAAAAi/cute.gif"
     width="64"
   />
-</h2>
-
-<hr>
+</h1>
 
 <p align="center">
   <code>💻 Software Engineering Student</code> • <code>⚙️ Backend Engineering</code> — <code>🌐 Web Development</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
@@ -34,7 +32,8 @@
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20Views&color=7F00FF&style=for-the-badge" /> -->
-  <h2 align="center">Current Profile Views</h2>
+  <h3 align="center">Current Profile Views</h3>
+  <br>
   <img src="https://count.getloli.com/@Marvellbrazil?name=Marvellbrazil&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" width="100%" />
 </p>
 
