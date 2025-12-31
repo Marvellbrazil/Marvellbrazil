@@ -25,12 +25,14 @@
 </h1>
 
 <p align="center">
-<code>💻 Software Engineering Student</code> • <code>⚙️ Backend Engineering</code> — <code>🌐 Web Development</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
+  <code>💻 Software Engineering Student</code> • <code>⚙️ Backend Engineering</code> — <code>🌐 Web Development</code> — <code>✨ Tech Enthusiast</code> • <code>Malang, Indonesia</code>
 </p>
+
+<hr>
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20Views&color=7F00FF&style=for-the-badge" /> -->
-  <code>Current Profile Views</code>
+  <h3>Current Profile Views</h3>
   <img src="https://count.getloli.com/@Marvellbrazil?name=Marvellbrazil&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
