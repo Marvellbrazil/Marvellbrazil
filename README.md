@@ -30,6 +30,7 @@
 
 <p align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=marvellbrazil&label=Profile%20Views&color=7F00FF&style=for-the-badge" /> -->
+  <code>Current Profile Views</code>
   <img src="https://count.getloli.com/@Marvellbrazil?name=Marvellbrazil&theme=booru-ve&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
 </p>
 
