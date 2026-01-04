@@ -117,6 +117,8 @@
 
 ---
 
+<!-- 3 GIFs -->
+
 <table align="center">
   <tr>
     <td align="center">
