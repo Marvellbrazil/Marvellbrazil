@@ -101,7 +101,7 @@
   <a href="https://instagram.com/akufaisal._" title ="Instagram">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
-  <a href="https://www.linkedin.com/in/marvello-faisal-912132318/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/marvellofaisal/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   <a href="https://discordapp.com/users/776817709810974720" title="Discord">
