@@ -40,7 +40,16 @@
 
 ---
 
-<table align="center">
+<code>greetings.json</code>
+
+```json
+"data": {
+  "message": "Helloo! Welcome to my profile :3",
+  "from": "Marvell",
+  "success": true
+}
+```
+<!-- <table align="center">
 <td width="50%">
 <code>greetings.json</code>
 
@@ -62,7 +71,7 @@
 
 
 ```
-</table>
+</table> -->
 
 ---
 
