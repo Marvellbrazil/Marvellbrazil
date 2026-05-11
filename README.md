@@ -40,14 +40,28 @@
 
 ---
 
+<table align="center">
+<td width="50%">
 <code>greetings.json</code>
 
 ```json
 "data": {
-  "greetings": "Helloo!!! Welcome to my GitHub Profile :3",
-  "from": "Marvell"
+"greetings": "Helloo!!! Welcome to my GitHub Profile :3",
+"from": "Marvell"
 }
 ```
+
+<td width="50%">
+<code>message.html</code>
+
+```html
+<h1>Take a closer look!</h1>                    
+<p>Don't by shy, eh</p>
+
+
+
+```
+</table>
 
 ---
 
