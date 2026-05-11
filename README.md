@@ -115,7 +115,7 @@
 
 ### 🛠️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,gradle,kali,neovim,notion,postman,powershell,visualstudio,vscode,windows,firebase,docker, bun" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,gradle,kali,neovim,notion,postman,powershell,visualstudio,vscode,windows,firebase,docker,bun" />
 </p>
 
 ---
