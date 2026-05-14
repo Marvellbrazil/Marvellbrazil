@@ -100,22 +100,23 @@
 
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Triangular%20Flag.png" alt="Triangular Flag" width="20" height="20" /> Other
 <p>
-  <img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity,npm,nginx,lua,kotlin,debian,ubuntu" />
+  <!-- <img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,unity,npm,nginx,lua,kotlin,debian,ubuntu" /> -->
+  <img src="https://skillicons.dev/icons?i=bash,git,md,stackoverflow,npm,nginx,kotlin,debian,ubuntu" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="24" height="24" /> Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,laravel,nodejs,sass,tailwind,vite,nextjs" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,dotnet,jquery,laravel,nodejs,tailwind,vite" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="26" height="26" /> Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=cloudflare,googlecloud,mysql,netlify,postgres,sqlite,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,mysql,netlify,postgres,sqlite,vercel,supabase" />
 </p>
 
 ### 🛠️ Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,gradle,kali,neovim,notion,postman,powershell,visualstudio,vscode,windows,firebase,docker,bun" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,figma,git,github,gradle,kali,neovim,postman,powershell,visualstudio,vscode,windows,firebase" />
 </p>
 
 ---
